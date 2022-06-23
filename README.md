@@ -1,4 +1,4 @@
-#Denetimli Öğrenme Algoritmaların Eğitilmesi ve Kıyaslanması
+Denetimli Öğrenme Algoritmaların Eğitilmesi ve Kıyaslanması
  
 Denetimli Öğrenme Algoritmalarını eğitme, birbirleriyle sınama ve öznitelikleri açısından incelemek için hazırlanmış kaynak.
 
